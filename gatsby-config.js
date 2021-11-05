@@ -1,7 +1,7 @@
 const isDevEnv = process.env.NODE_ENV === 'development';
 const siteUrl = isDevEnv
   ? 'http://localhost:8000'
-  : 'https://yashb.gatsbyjs.io';
+  : 'https://hit-shiroya-portfolio.netlify.app/';
 
 const description =
   'Web developer, competitive coder!';
